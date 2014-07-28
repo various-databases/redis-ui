@@ -38,6 +38,7 @@ sudo cp config.sample.inc.php config.inc.php
 ```
 
 具体配置文件参考示例文件config.inc.php.example。
+配置完，记得重启Nginx（可能需要）。
 
 
 功能
